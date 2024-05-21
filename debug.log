@@ -1,0 +1,18 @@
+[0906/122057.925:FATAL:thread_win.cc(27)] Check failed: . CreateThread: Insufficient system resources exist to complete the requested service. (0x5AA)
+[0906/122102.248:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0906/122218.031:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\PAPERS~1\AppData\Local\Temp\1\scoped_dir45656_389726368\Crashpad\reports\09d91b1d-ad31-45b4-b7fc-dd3311d8cc2b.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0906/122218.619:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\PAPERS~1\AppData\Local\Temp\1\scoped_dir36184_1110161877\Crashpad\reports\8a64e6d6-a848-44e7-a8de-b7d2bee16dab.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0906/122219.166:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\PAPERS~1\AppData\Local\Temp\1\scoped_dir26356_408785085\Crashpad\reports\f0b5a287-e625-4511-bd73-1245322dcaf6.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0906/122957.341:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/123339.926:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\PAPERS~1\AppData\Local\Temp\1\scoped_dir44484_1929887560\Crashpad\reports\fb93c7a1-e179-419c-a3ae-2eb7ccd7475d.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0906/123418.702:ERROR:process_info.cc(359)] UncheckedAllocate
+[0906/125121.286:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0906/125121.288:ERROR:exception_snapshot_win.cc(99)] thread ID 38780 not found in process
+[0906/125121.286:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0906/125121.288:ERROR:exception_snapshot_win.cc(99)] thread ID 26840 not found in process
+[0906/125121.289:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0906/125121.291:ERROR:exception_snapshot_win.cc(99)] thread ID 40944 not found in process
+[0906/125121.311:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/125121.311:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/125121.311:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0906/125121.311:ERROR:exception_snapshot_win.cc(99)] thread ID 12764 not found in process
